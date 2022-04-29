@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "17860812359",
+    "project_id": "apartment-rent-ce0d4",
+    "storage_bucket": "apartment-rent-ce0d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17860812359:android:8532c4e5d568a032039b62",
+        "android_client_info": {
+          "package_name": "com.catstudio.apartment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17860812359-ugjbsi9n09uceiln7nelen8qq64s3575.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9665wySdFLnlx_Ww7AzXPQW6ewQCVVEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17860812359-ugjbsi9n09uceiln7nelen8qq64s3575.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "17860812359-ct8t9c61bgefkrl4vej2vpjful0d6iv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.catstudio.apartment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
